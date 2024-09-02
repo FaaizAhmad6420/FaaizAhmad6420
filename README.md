@@ -1,0 +1,7 @@
+- 👋 Hi, I’m @FaaizAhmad6420
+- 👀 I’m interested in Backend Development
+- 🌱 I’m currently learning Ruby on Rails and enhancing my skills in various backend technologies.
+- 💞️ I’m looking to collaborate on open-source Ruby on Rails projects or any backend development work.
+- 📫 How to reach me: faizahmad6420@gmail.com
+- 😄 Pronouns: He/Him
+- ⚡ Fun fact: I enjoy solving coding challenges and am always up for a game of chess!
